@@ -5,7 +5,7 @@ export default function Page() {
     <TestResult passed={true} title="AppDir Static Page">
       <p>
         If you see this page, the app dir is working properly along with the
-        pages router. I have made no change.
+        pages router. I have made a change you don't know about.
       </p>
     </TestResult>
   );
